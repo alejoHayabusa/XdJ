@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://www.nacionrex.com/__export/1625759631809/sites/debate/img/2021/07/08/bts-novias-2021_crop1625759574651.jpg_242310155.jpg);
+}
+.bg-primary {
+    background-color: #f0a2ec62 !important;
+    border-radius: 5%;
+    box-shadow: 1px 1px 15px black;
+}
+.bg-secondary {
+    background-color: #db717180 !important;
+    border-radius: 1%;
+    box-shadow: 1px 1px 15px black;
+}
+h1,h2,h3,h4,h5,h6,p {
+    text-shadow: 1px 1px 8px black;
+    color: white;
+    opacity: 1 !important;
+}
+p {
+    font-size: large;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size: 250%;
+}
+#pre {
+    text-align: center;
+    font-size: 90%;
+}
+#router {
+    position: relative;
+    width: 3%;
+    left: 5px;
+}
+#cum {
+    width: 10%;
+}
